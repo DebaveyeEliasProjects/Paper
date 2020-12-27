@@ -1,0 +1,4 @@
+name: Eersteplugin
+version: ${project.version}
+main: me.gezelligheid.eersteplugin.Main
+api-version: 1.16
