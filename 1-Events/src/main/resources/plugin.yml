@@ -1,0 +1,4 @@
+name: Eventsplugin
+version: ${project.version}
+main: me.gezelligheid.eventsplugin.Main
+api-version: 1.16
