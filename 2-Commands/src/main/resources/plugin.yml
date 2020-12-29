@@ -1,0 +1,7 @@
+name: Healplugin
+version: ${project.version}
+main: me.gezelligheid.healplugin.Main
+api-version: 1.16
+commands:
+  heal:
+    description: heals a player

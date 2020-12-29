@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a90eff1-e2e5-415e-a68b-ac0592814922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-Events/src/main/java/me/gezelligheid/eventsplugin/Events/SheepHitEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +95,9 @@
       <updated>1609078889580</updated>
       <workItem from="1609078892032" duration="814000" />
       <workItem from="1609150801035" duration="691000" />
+      <workItem from="1609162259048" duration="1462000" />
+      <workItem from="1609239335991" duration="734000" />
+      <workItem from="1609240730673" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -112,6 +114,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1609150896019">
